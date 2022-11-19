@@ -21,11 +21,4 @@
 
 Обработка исключительных ситуаций производится в программе.
 
-TODO LIST::
 
-
-
-
-setmonet EXEPTION ОЛІГАРХ
-
-MONEY MENU CLASS
